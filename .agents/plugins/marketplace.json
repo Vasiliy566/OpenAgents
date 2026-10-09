@@ -1,5 +1,7 @@
 {
   "name": "openagents",
-  "interface": { "displayName": "OpenAgents" },
+  "interface": {
+    "displayName": "OpenAgents"
+  },
   "plugins": []
 }
