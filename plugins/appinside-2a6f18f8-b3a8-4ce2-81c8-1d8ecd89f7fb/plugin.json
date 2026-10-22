@@ -1,0 +1,34 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "appinside-2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
+  "version": "1.0.1",
+  "description": "Увидеть текущие задачи на доске.",
+  "author": {
+    "name": "у"
+  },
+  "homepage": "https://appinagents.ru/studio/install/2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Мои задачи",
+        "shortDescription": "Посмотреть доску задач",
+        "longDescription": "Увидеть текущие задачи на доске.",
+        "developerName": "у",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ],
+        "websiteURL": "https://appinagents.ru/studio/install/2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
+        "supportURL": "https://appinagents.ru/studio/support",
+        "privacyPolicyURL": "https://appinagents.ru/privacy",
+        "termsOfServiceURL": "https://appinagents.ru/terms",
+        "defaultPrompt": [
+          "Посмотреть доску задач"
+        ],
+        "brandColor": "#C2410C",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
+      }
+    }
+  }
+}

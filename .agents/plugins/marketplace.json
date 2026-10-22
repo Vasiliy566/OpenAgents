@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "OpenAgents"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "appinside-2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
+      "source": {
+        "source": "local",
+        "path": "./plugins/appinside-2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }
