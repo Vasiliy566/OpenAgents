@@ -17,6 +17,18 @@
       "category": "Productivity"
     },
     {
+      "name": "appinside-1f56dddb-a1ac-4758-aac5-2c4eb32310ba",
+      "source": {
+        "source": "local",
+        "path": "./plugins/appinside-1f56dddb-a1ac-4758-aac5-2c4eb32310ba"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "appinside-2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
       "source": {
         "source": "local",
