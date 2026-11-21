@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "appinside": {
+      "type": "streamable-http",
+      "url": "https://appinagents.ru/mcp/089fc736-8773-4f87-8ca6-ce3b2a1ee4de/authorized"
+    }
+  }
+}

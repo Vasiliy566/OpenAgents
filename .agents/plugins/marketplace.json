@@ -5,6 +5,18 @@
   },
   "plugins": [
     {
+      "name": "appinside-089fc736-8773-4f87-8ca6-ce3b2a1ee4de",
+      "source": {
+        "source": "local",
+        "path": "./plugins/appinside-089fc736-8773-4f87-8ca6-ce3b2a1ee4de"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "appinside-2a6f18f8-b3a8-4ce2-81c8-1d8ecd89f7fb",
       "source": {
         "source": "local",
